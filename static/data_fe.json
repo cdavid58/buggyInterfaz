@@ -1,0 +1,20 @@
+[
+    {
+        "pk": 1330,
+        "consecutive": 2,
+        "client": "David",
+        "total": 11500.0,
+        "state": "Sin enviar a la DIAN",
+        "date": "2022-12-14",
+        "cufe": null
+    },
+    {
+        "pk": 1321,
+        "consecutive": 1,
+        "client": "David",
+        "total": 0.0,
+        "state": "Sin enviar a la DIAN",
+        "date": "2023-02-07",
+        "cufe": null
+    }
+]

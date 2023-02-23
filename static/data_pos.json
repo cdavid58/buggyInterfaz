@@ -1,0 +1,20 @@
+[
+    {
+        "pk": 653,
+        "consecutive": 78,
+        "client": "David",
+        "total": 35000.0,
+        "state": "Se aplico nota cr\u00e9dito",
+        "date": "2023-02-17",
+        "cufe": null
+    },
+    {
+        "pk": 652,
+        "consecutive": 77,
+        "client": "David",
+        "total": 3500.0,
+        "state": "Factura Creada con \u00e9xito",
+        "date": "2023-02-17",
+        "cufe": null
+    }
+]
